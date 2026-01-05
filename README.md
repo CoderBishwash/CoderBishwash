@@ -40,20 +40,6 @@ I’m a **web developer** focused on building **responsive, user-friendly, and s
 
 ---
 
-## 📊 GitHub Analytics
-
-### GitHub Stats
-
-![Bishwash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderBishwash\&show_icons=true\&theme=tokyonight\&cache_seconds=86400)
-
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderBishwash\&layout=compact\&theme=tokyonight\&cache_seconds=86400)
-
-### GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=CoderBishwash\&theme=tokyonight)
-
 ### GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=CoderBishwash\&theme=tokyonight)
