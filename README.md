@@ -40,12 +40,6 @@ I’m a **web developer** focused on building **responsive, user-friendly, and s
 
 ---
 
-### GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=CoderBishwash\&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bishwash-pokharel-361450337/)
