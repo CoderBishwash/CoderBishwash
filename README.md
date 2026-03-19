@@ -1,12 +1,10 @@
 # Bishwash Pokharel
 
-Frontend Developer with a strong focus on building scalable, maintainable, and user-centric web applications. I work primarily with modern JavaScript frameworks and enjoy translating product requirements into clean, performant interfaces.
+Front-end developer experienced in building responsive interfaces with Vue.js, React.js, Next.js, and Tailwind CSS. Alongside my core front-end skills, I have a working knowledge of back-end development and database management using Laravel, MySQL, and PostgreSQL, supported by GitHub for version control.
 
 ## About Me
 
-I specialize in frontend development using Vue.js, React.js, and Next.js, with practical experience integrating these frameworks into real-world applications. I also have hands-on experience working with Laravel on the backend and Tailwind CSS for consistent, utility-first styling. Additionally, I have foundational knowledge of Python, which I use for scripting and problem-solving tasks.
-
-I value code quality, clarity, and performance, and I aim to write software that is easy to understand, extend, and maintain.
+I'm a developer who loves building user-friendly, highly interactive web experiences. My main focus is on the frontend, using Vue.js, React.js, Next.js, and Tailwind CSS to bring creative designs to life. I also have a solid backend foundation, allowing me to build the logic and databases that power those interfaces using Laravel, MySQL, and PostgreSQL, while keeping my entire workflow clean and organized with GitHub.
 
 ## Technical Skills
 
