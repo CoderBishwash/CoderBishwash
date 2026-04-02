@@ -17,9 +17,9 @@ I'm a developer who loves building user-friendly, highly interactive web experie
 
 **Backend**
 - Laravel (PHP)
+- Node JS
 
 **Other**
-- Node JS
 - RESTful APIs
 - Git & GitHub
 - Responsive and accessible UI development
