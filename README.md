@@ -1,60 +1,83 @@
 <div align="center">
-  <h1>BISHWASH POKHAREL</h1>
-  <h3>Front-End Expert & Full-Stack (MERN / Laravel) Developer</h3>
-  <p>Building high-performance, responsive interfaces and robust backend architectures.</p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/bishwash-pokharel-361450337/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://bishwashpokharel.com.np"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-  </p>
+# Bishwash Pokharel
+
+### Front-End Developer | Full-Stack Developer
+
+I build modern web applications using React, Next.js, Vue.js, Node.js, Laravel, and PocketBase.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://bishwashpokharel.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishwash-pokharel-361450337/)
+
 </div>
 
+## About Me
+
+I'm a developer based in Chitwan, Nepal, with a primary focus on front-end development and experience building full-stack web applications.
+
+I work mainly with **React, Next.js, Vue.js, JavaScript, and Tailwind CSS** on the frontend, while also working with **Node.js, Laravel, PocketBase, SQL, and MongoDB** for backend development and data management.
+
+I enjoy building practical applications with clean interfaces, reusable components, and maintainable code.
+
+## Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PocketBase](https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square&logo=pocketbase&logoColor=000)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### Database & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## What I Work With
+
+- Building responsive interfaces with **React, Next.js, Vue.js, and Tailwind CSS**
+- Developing full-stack applications with **Node.js, Laravel, and PocketBase**
+- Building and integrating **REST APIs**
+- Working with **SQL and NoSQL databases**
+- Creating reusable components and maintaining structured codebases
+- Using **Git and GitHub** for version control and project management
+- Working in **Linux-based development environments**
+
+## Selected Work
+
+### Devsign Technologies Platform
+Built with **Next.js and PocketBase**, combining the public academy website with an administrative dashboard for managing the platform.
+
+### JobShine
+A full-stack job portal built with **Next.js and PocketBase** that connects job seekers and employers, with job applications, profile management, and CV generation.
+
+### E-commerce Platform
+Developed a full-stack e-commerce application for home appliance parts, including product and brand management for administrators and online purchasing for customers.
+
+## Currently
+
+I'm currently working as a **Full Stack Developer at Devsign Technologies**, building and maintaining real-world web applications across both frontend and backend development.
+
+I'm also continuing to improve my knowledge of application architecture, backend development, databases, and modern frontend practices.
+
 ---
 
-## ABOUT ME
-
-I am a developer dedicated to engineering user-friendly, highly interactive web experiences with a focus on minimalist design and seamless functionality. My primary expertise lies in the frontend, leveraging **Vue.js**, **React.js**, **Next.js**, and **Tailwind CSS** to translate complex designs into intuitive interfaces. 
-
-Having expanded my technical repertoire into the **MERN stack** (MongoDB, Express.js, React, Node.js), I architect fast, scalable full-stack JavaScript applications. This capability synergizes with my strong foundation in PHP/Laravel, PostgreSQL, and MySQL, allowing me to design secure databases and robust business logic while maintaining a meticulously organized development workflow.
-
-## TECHNICAL SKILLS
-
-### Frontend & UI
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-*   **Core:** HTML5, CSS3, JavaScript (ES6+)
-*   **Design & Interaction:** High-end UI/UX, Glassmorphism, Advanced Animations (Framer Motion, GSAP)
-
-### Backend & Full-Stack
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-*   **Architecture:** MERN Stack, RESTful APIs, Server-Side Rendering
-
-### Databases & Tooling
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## CURRENT INITIATIVES
-
-*   **Full-Stack Development:** Architecting modern applications utilizing the MERN stack alongside React and Next.js.
-*   **Interface Engineering:** Implementing clean, minimalist aesthetics with advanced frontend animations.
-*   **System Optimization:** Enhancing UI performance, accessibility, and overall codebase maintainability.
-*   **Backend Integration:** Deepening architectural knowledge across both Node.js/Express and Laravel ecosystems.
-*   **Workflow Automation:** Expanding Python usage for tooling and scripting.
-
-## PROFESSIONAL FOCUS
-
-*   **Frontend Architecture:** Crafting scalable design systems and reusable components.
-*   **Performance Optimization:** Delivering fast, efficient, and best-practice-driven code.
-*   **Code Quality:** Writing clean, readable, and highly maintainable systems.
-*   **Developer Experience:** Optimizing full-stack workflows within Linux environments.
-
----
 <div align="center">
-  <i>Committed to building scalable solutions and refined user experiences.</i>
+
+**Thanks for visiting my profile.**
+
 </div>
